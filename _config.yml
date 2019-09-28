@@ -6,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Variables, Functions, Commands etc to demonstrate more concept
   than the identity.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bloggerfoo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 future: true # Show blog post of future date
 
 google_analytics: foo-bar-google-analytics-id # Replace it with your ID starting as UA-
